@@ -1,0 +1,63 @@
+*{
+    background-color: #17639F;
+    margin: 0px;
+    font-family: Aerial;
+    border: border-box;
+}
+
+.intro{
+    display: flex;
+    height: 150px;
+    align-items: center;
+}
+.photo{
+    background-image: url("photo.png.png");
+    background-size: cover;
+    height: 130px;
+    width: 130px;
+    background-color: black;
+    margin: 20px;
+}
+
+.name{
+    font-size: 50px;
+    padding-top: 20px;
+    color: #CCCCCC;
+}
+
+.address{
+    font-size: 20px;
+    color: #CCCCCC;
+}
+
+.email{
+    font-size: 20px;
+    color: #CCCCCC;
+}
+
+.education{
+    font-size: 40px;
+    color:#FF914D;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.matri{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    font-size: 20px;
+    color: #CCCCCC;
+    background-color: transparent;
+}
+
+ul{
+    font-size: 20px;
+    color: #CCCCCC;
+        margin-top: 20px;
+        margin-bottom: 20px;
+}
+
+
+
